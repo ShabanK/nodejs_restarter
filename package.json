@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "start": "nodemon server"
+  }
+}
