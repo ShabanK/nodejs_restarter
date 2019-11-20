@@ -1,8 +1,14 @@
 {
   "dependencies": {
+    "express": "^4.17.1",
     "nodemon": "^1.19.4"
   },
-  "scripts": {
-    "start": "nodemon server"
-  }
+  "scripts": {},
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Following a tutorial by TheNetNinja",
+  "main": "/express/app.js",
+  "repository": "https://github.com/ShabanK/nodejs_restarter.git",
+  "author": "ShabanK <nooneyouwillknow@gmail.com>",
+  "license": "MIT"
 }

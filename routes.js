@@ -16,6 +16,7 @@ const server = http.createServer((req, res) => {
       name: "Luigi",
       state: "depressed"
     };
+    console.log("hey json");
     res.end(JSON.stringify(jsonn));
   }
 });
